@@ -35,8 +35,8 @@ GPT3.5（用于对比的国外大语言模型）
 <table><tr><td bgcolor=Gainsboro><font color = "#b0000" size=4>评测结果：国产大模型在自然语言理解和生成结果上相差不大 </font></td></tr></table>
 
 <details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> <font style="font-weight:bold;">百度文心一言3.5</font> <br />
-  <img width="836" alt="截屏2023-12-25 16 49 44" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/6ebc838f-83bf-4bcc-8512-191fa78d9279" style="zoom:25%;">
-  <img width="843" alt="截屏2023-12-25 16 46 44" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f1939789-c92b-4bd3-859e-082355378da8" style="zoom:25%;">
+  <img width="50%" alt="一.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/6ebc838f-83bf-4bcc-8512-191fa78d9279" >
+  <img width="49%" alt="一.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f1939789-c92b-4bd3-859e-082355378da8" style="zoom:25%;">
  <br /> <br/> 
   <font style="font-weight:bold;">阿里通义千问</font> <br /><img src="img/image-20231225183015276.png" style="zoom:25%;" /> <img src="img/image-20231225183729566.png" style="zoom:25%;" /> <br/> <br/>
   <font style="font-weight:bold;">腾讯混元</font><br/><img src="img/截屏2023-12-25 18.52.01.png" style="zoom:25%;" /><img src="img/截屏2023-12-25 18.55.29.png" style="zoom:25%;" /> <br/>  <br/>
