@@ -34,17 +34,39 @@ GPT3.5（用于对比的国外大语言模型）
 
 <table><tr><td bgcolor=Gainsboro><font color = "#b0000" size=4>评测结果：国产大模型在自然语言理解和生成结果上相差不大 </font></td></tr></table>
 
-<details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> <font style="font-weight:bold;">百度文心一言3.5</font> <br />
-  <img width="50%" alt="一.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/6ebc838f-83bf-4bcc-8512-191fa78d9279" >
-  <img width="49%" alt="一.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f1939789-c92b-4bd3-859e-082355378da8" style="zoom:25%;">
- <br /> <br/> 
-  <font style="font-weight:bold;">阿里通义千问</font> <br /><img src="img/image-20231225183015276.png" style="zoom:25%;" /> <img src="img/image-20231225183729566.png" style="zoom:25%;" /> <br/> <br/>
-  <font style="font-weight:bold;">腾讯混元</font><br/><img src="img/截屏2023-12-25 18.52.01.png" style="zoom:25%;" /><img src="img/截屏2023-12-25 18.55.29.png" style="zoom:25%;" /> <br/>  <br/>
-  <font style="font-weight:bold;">讯飞星火</font> <br/> <img src="img/截屏2023-12-25 19.00.44.png" width="1800" style="zoom:25%;" /><img src="img/截屏2023-12-25 19.02.14.png" style="zoom:25%;" /> <br/>  <br/>
-  <font style="font-weight:bold;">抖音云雀</font> <br/><img src="img/image-20231225191634150.png" width="1800" style="zoom:25%;" /><img src="img/截屏2023-12-25 19.19.52.png" style="zoom:25%;" /> <br/>  <br/>
-  <font style="font-weight:bold;">智谱清言</font> <br/> <img src="img/截屏2023-12-25 19.26.09.png" style="zoom:25%;" /><img src="img/截屏2023-12-25 19.35.18.png" style="zoom:25%;" /> <br/>  <br/>
-  <font style="font-weight:bold;">百川智能</font> <br/> <img src="img/截屏2023-12-25 19.49.52.png" style="zoom:25%;" /> <img src="img/截屏2023-12-25 19.55.56.png" style="zoom:25%;" /> <br/> <br/> 
-  <font style="font-weight:bold;">MINIMAX</font> <br/> <img src="img/截屏2023-12-25 20.04.46.png" style="zoom:25%;" /><img src="img/image-20231225200841309.png" style="zoom:25%;" /> <br/> 
+<details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> 
+  <font style="font-weight:bold;">百度文心一言3.5</font> <br />
+  <img width="50%" alt="文心1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/244e1ee8-557c-4848-b2a2-da80f151aadc">
+  <img width="49%" alt="文心2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f1939789-c92b-4bd3-859e-082355378da8" >
+ <br/> <br/> 
+  <font style="font-weight:bold;">阿里通义千问</font> <br />
+  <img width="50%" alt="通义1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/b346c984-b48f-44fe-bf3c-be6728354176">
+  <img width="50%" alt="通义2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/6452ceec-bf47-49d8-a613-20fc951c7571">
+<br/> <br/>
+  <font style="font-weight:bold;">腾讯混元</font><br/>
+  <img width="50%" alt="腾讯1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/d62b733a-81d3-4506-8127-c24fbbd689c8">
+  <img width="50%" alt="腾讯2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/7261f108-5f97-43d4-a5a3-adef2d6de94a">
+<br/> <br/>
+  <font style="font-weight:bold;">讯飞星火</font> <br/> 
+  <img width="50%" alt="讯飞1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/5ddd933c-7786-4a18-8e4e-1660b43bd226">
+  <img width="50%" alt="讯飞2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/31c6c204-3699-4913-81ae-8419e4a3c925">
+<br/> <br/>
+  <font style="font-weight:bold;">抖音云雀</font> <br/>
+  <img width="50%" alt="抖音1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9c3a1333-d057-4584-8a4a-7e2ea5e93f9f">
+  <img width="50%" alt="抖音2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/059d2f1f-c035-452f-997b-a42158b6291e">
+<br/> <br/>
+  <font style="font-weight:bold;">智谱清言</font> <br/> 
+  <img width="50%" alt="智谱1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/ad6b6f1c-86eb-4cb8-925a-e6992a95ae7c">
+  <img width="50%" alt="智谱2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/4168828c-9cb4-4d63-8c15-ba550f77cc22">
+<br/>  <br/>
+  <font style="font-weight:bold;">百川智能</font> <br/> 
+  <img width="50%" alt="百川1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9c42cff1-ee87-4476-82de-57d489888094">
+  <img width="50%" alt="百川2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/7c17fa66-d2f3-4af8-b5fc-49b14a23d234">
+<br/> <br/> 
+  <font style="font-weight:bold;">MINIMAX</font> <br/>
+  <img width="50%" alt="MINIMAX1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/5e03ce7e-7f36-4e44-aec9-38d8b33b1928">
+  <img width="50%" alt="MINIMAX2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c802b223-3332-4fb1-838f-9055710d0c56">
+<br/> 
   </p></details><br/>
 
 ### 二. 推理
