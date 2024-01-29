@@ -429,13 +429,18 @@ GPT3.5（用于对比的国外大语言模型）
   <font style="font-weight:bold;">阿里通义千问</font> <br />
   <img width="773" alt="image-20240104235339112" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/6ae070f2-89b1-4198-888d-9993b109949d"><br/><br/>
   <font style="font-weight:bold;">腾讯混元</font><br/>
-  ![Uploading 截屏2024-01-04 23.54.47.png…]()<br/><br/>
+  <img width="853" alt="截屏2024-01-04 23 54 47" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/ecf8681f-b156-4ada-8027-9a677448fcc0"><br/><br/>
   <font style="font-weight:bold;">讯飞星火</font> <br/> 
-  ![Uploading 截屏2024-01-04 23.55.39.png…]()<br/><br/>
-  <font style="font-weight:bold;">抖音云雀</font> <br/><img src="img/截屏2024-01-04 23.56.48.png" width="1800"  /> <br/><br/>
-  <font style="font-weight:bold;">智谱清言</font> <br/> <img src="img/截屏2024-01-04 23.57.42.png"  /> <br/><br/>
-  <font style="font-weight:bold;">百川智能</font> <br/> <img src="img/截屏2024-01-04 23.58.16.png" /> <br/><br/> 
-  <font style="font-weight:bold;">MINIMAX</font> <br/> <img src="img/截屏2024-01-04 23.59.26.png"  /> <br/> </p></details><br/>
+  <img width="988" alt="截屏2024-01-04 23 55 39" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/e642ce52-41c7-47a4-9646-4380b2a3bc27"><br/><br/>
+  <font style="font-weight:bold;">抖音云雀</font> <br/>
+  <img width="821" alt="截屏2024-01-04 23 56 48" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/93d4fa82-91af-45df-9170-7d4790ea682b"><br/><br/>
+  <font style="font-weight:bold;">智谱清言</font> <br/> 
+  <img width="809" alt="截屏2024-01-04 23 57 42" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f66ddec1-45df-4b10-9b63-a719b200ff81"><br/><br/>
+  <font style="font-weight:bold;">百川智能</font> <br/> 
+  <img width="834" alt="截屏2024-01-04 23 58 16" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/e9dde92f-a2b3-4dd0-aae4-f9e5111247f1"><br/><br/> 
+  <font style="font-weight:bold;">MINIMAX</font> <br/> 
+  <img width="824" alt="截屏2024-01-04 23 59 26" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/4be54d8e-26a8-4cb6-94e0-b167dcd44630"><br/> 
+</p></details><br/>
 
 ### 十一. 多模态
 
@@ -455,44 +460,133 @@ GPT3.5（用于对比的国外大语言模型）
 2. **照片数据提取**: "从这张商店收据的照片中提取出所有商品和它们的价格。"
   </td></tr></table>
 <!--在（2）图像到文本中使用的图像如下-->
-
+<br/>
 1. **图像描述**
 
-<img src="img/WechatIMG220.jpg" alt="WechatIMG220" style="zoom:20%;" align=left />
-
+![WechatIMG220](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/402d3944-47ba-4e35-b7e7-172b0da18793)
+<br/>
 2. **图像故事讲述**
-
-<img src="img/WechatIMG236.jpg" alt="WechatIMG236" width=1600 style="zoom:20%;" /><img src="img/WechatIMG237.jpg" alt="WechatIMG237"  style="zoom:15%;" /><img src="img/WechatIMG238.jpg" alt="WechatIMG238" style="zoom:15%;"  />
-
+<br/>
+![WechatIMG236](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c09e6c51-cc6f-4b45-b02d-fad6d467cd5a)
+![WechatIMG237](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9357e695-2079-440c-acb3-4e4b86ff3f6d)
+![WechatIMG238](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/89912095-51e6-4023-86a7-7a09d3c03153)
+<br/>
 <!--在（3）交互式问题中使用的图像如下-->
-
+<br/>
 1.**解决问题**
-
-<img src="img/厨房.jpg" alt="厨房" style="zoom: 33%;" align=left />
-
+<br/>
+![厨房](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/69b5e57c-13f3-4016-8f88-d311a7c7ab1b)
+<br/>
 2.**教育活动**:
-
-<img src="img/动物图片一.jpg" alt="动物图片一" style="zoom:25%;" align=left /><img src="img/动物图片二.jpg" alt="动物图片二" style="zoom:25%;" /><img src="img/动物图片三.jpg" alt="动物图片三" style="zoom:15%;" />
-
+<br/>
+![动物图片一](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2f2fbb22-0e74-4b37-9bfe-5f9efbf3486a)
+![动物图片二](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/070f5860-24c4-4b29-95b3-2666d9204a86)
+![动物图片三](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/479ff950-825b-407d-a7ab-4ac346c2eb1f)
+<br/>
 <!--在（4） 数据分析中使用的图像如下-->
-
+<br/>
 1.**图表解读**
-
-<img src="img/数据.png" alt="数据" style="zoom: 33%;" align=left />
-
+<br/>
+<img width="601" alt="数据" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/088d937c-8b67-4d97-a89e-dc507209b9d6">
+<br/>
 2.**照片数据提取**
-
-<img src="img/商品收据.jpg" alt="商品收据" style="zoom: 50%;" align=left />
-
+<br/>
+![商品收据](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/d1db3095-e9c5-4ad1-b275-1738b9eeedec)
+<br/>
 <details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> 
-  <font style="font-weight:bold;">百度文心一言3.5</font> <br />(1)文本到图像<br/><img src="img/截屏2024-01-05 11.23.39.png" style="zoom:25%;" /><img src="img/截屏2024-01-05 11.24.26.png" style="zoom:25%;" /> <br /> (2)图像到文本<br/><img src="img/截屏2024-01-08 08.36.13.png" style="zoom:25%;" /><img src="img/CleanShot 2024-01-08 at 08.01.49@2x.png" style="zoom:25%;" /> <br /> (3)交互式问题<br/><img src="img/截屏2024-01-08 00.22.23.png" style="zoom:25%;" /><img src="img/截屏2024-01-05 15.53.29.png" style="zoom:25%;" /><br /> (4)数据分析<br/><img src="img/截屏2024-01-08 00.29.17.png" style="zoom:25%;" /><img src="img/截屏2024-01-05 15.55.36.png" style="zoom:25%;" /><br/><! --- code comment---> <font color="#0000dd">文心一言在图生文中单图结果不错生成了图像中的人物名称，但是在多图中出现自己编造的内容，结果和图片关系不大；在交互式问题中结果有些欠缺，均出现了自己编造的内容，且无法识别多个图片的输入；在数据分析图表中结果有些欠缺，具体数值均是错误的，但在趋势分析中是部分内容正确，部分内容编造，在照片数据提取中，无法提取有效结果</font><br/><br/> 
- <font style="font-weight:bold;">阿里通义千问</font> <br />(1)文本到图像<br/><img src="img/截屏2024-01-05 16.22.26.png" style="zoom:25%;" /> <img src="img/截屏2024-01-05 16.24.09.png" style="zoom:25%;" /><br />(2)图像到文本<br/><img src="img/截屏2024-01-05 16.25.42.png" style="zoom:25%;" /> <img src="img/CleanShot 2024-01-08 at 08.32.50@2x.png" style="zoom:25%;" /> <br/>(3)交互式问题<br/><img src="img/截屏2024-01-08 00.22.23.png" style="zoom:25%;" /> <img src="img/截屏2024-01-05 21.50.35.png" style="zoom:25%;" /> <br/>(4)数据分析<br/><img src="img/CleanShot 2024-01-08 at 08.25.24@2x.png" style="zoom:25%;" /><img src="img/截屏2024-01-05 22.02.17.png" style="zoom:25%;" /><br/><! --- code comment---> <font color="#0000dd">通义千问在图生文中单图结果生成结果较详细但是有一些细节的识别不准确，在多图生成中对于图像内容的理解识别比较到位；在交互式问题中结果不佳，几乎无法实现交互；在数据分析中表现优异，生成结果均正确</font><br/><br/>
- <font style="font-weight:bold;">腾讯混元</font><br/>(1)文本到图像<br/><img src="img/截屏2024-01-05 23.26.49.png" style="zoom:25%;" /><img src="img/截屏2024-01-05 23.41.40.png" style="zoom:25%;" /> <br/> <! --- code comment--->腾讯混元暂无图生文功能，多模态只支持文生图<br/> <br/>  
-  <font style="font-weight:bold;">讯飞星火</font> <br/> (1)文本到图像<br/><img src="img/截屏2024-01-05 23.34.44.png" width="1800" style="zoom:25%;" /><img src="img/截屏2024-01-05 23.41.40.png" style="zoom:25%;" /> <br/> (2)图像到文本<br/><img src="img/截屏2024-01-05 23.49.53.png" width="1800" style="zoom:25%;" /><img src="img/截屏2024-01-06 00.01.07.png" style="zoom:25%;" /><br/>(3)交互式问题<br/><img src="img/截屏2024-01-06 00.02.52.png" style="zoom:25%;" /><img src="img/截屏2024-01-06 08.48.08.png" style="zoom:20%;" /><br />(4)数据分析<br/><img src="img/截屏2024-01-06 09.00.26.png" style="zoom:25%;" /><img src="img/截屏2024-01-06 09.03.07.png" style="zoom:25%;" /><br/><! --- code comment---> <font color="#0000dd">讯飞星火在图生文单图中生成了简单准确的结果，在多图中出现了与图片几乎无关的故事；在交互式问题中单图和图片内容有交互性，但在多图中无法识别出输入的多个图片；在数据分析中两个测试结果表现均不佳，图表数据结果几乎都不正确，照片数据虽然提取出了购买物品，但未准确识别出其价格</font><br/> <br/>
-  <font style="font-weight:bold;">抖音云雀</font> <br/>(1)文本到图像<br/><img src="img/截屏2024-01-06 09.06.58.png" width="1800" style="zoom:25%;" /><img src="img/截屏2024-01-06 09.08.20.png" style="zoom:25%;" /> <br/> <! --- code comment---> <font color="#0000dd">抖音云雀暂无图生文功能，多模态只支持文生图</font> <br/> <br/>
-  <font style="font-weight:bold;">智谱清言</font> <br/> (1)文本到图像<br/><img src="img/截屏2024-01-06 09.12.34.png" style="zoom:25%;" /><img src="img/截屏2024-01-06 09.13.46.png" style="zoom:25%;" /> <br/> (2)图像到文本<br/><img src="img/截屏2024-01-06 09.14.54.png" width="1800" style="zoom:25%;" /><img src="img/截屏2024-01-06 09.18.22.png" style="zoom:25%;" /><br/>(3)交互式问题<br/><img src="img/截屏2024-01-06 09.19.53.png" style="zoom:25%;" /><img src="img/截屏2024-01-06 08.48.08.png" style="zoom:25%;" /><br />(4)数据分析<br/><img src="img/截屏2024-01-06 09.29.24.png" style="zoom:25%;" /><img src="img/截屏2024-01-06 09.30.35.png" style="zoom:25%;" /><br/><! --- code comment---><font color="#0000dd">智谱清言在图生文中结果优秀，皆给出了和图片内容相一致的结果；在交互式问题中生成结果显示无法具有满意的交互性；在数据分析中，对于图表和图片数据皆无法正确识别</font><br/> <br/>
-  <font style="font-weight:bold;">百川智能</font> <br/> <img src="img/截屏2024-01-06 09.32.56.png" style="zoom:25%;" /> <img src="img/截屏2024-01-06 09.33.15.png" style="zoom:25%;" /> <br/> <! --- code comment---><font color="#0000dd">百川智能暂无图生文功能，多模态只支持文生图</font> <br/><br/> 
-  <font style="font-weight:bold;">MINIMAX</font> <br/> <img src="img/截屏2024-01-06 09.40.40.png" style="zoom:25%;" /><img src="img/截屏2024-01-06 09.41.11.png" style="zoom:25%;" /> <br/><! --- code comment---><font color="#0000dd">MINIMAX无任何多模态功能</font> 
+  <font style="font-weight:bold;">百度文心一言3.5</font> <br />
+  (1)文本到图像<br/>
+  <img width="50%" alt="截屏2024-01-05 11 23 39" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9730c7f1-c9e1-4096-a443-4b8a6fb86b69">
+  <img width="49%" alt="截屏2024-01-05 11 24 26" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f0376e71-b960-40f4-87bb-cdf5e542e81e">
+ <br /> 
+  (2)图像到文本<br/>
+  <img width="840" alt="截屏2024-01-08 08 36 13" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/dcd30df4-edcd-4328-8f33-ca2ab4752f44">
+  ![CleanShot 2024-01-08 at 08 01 49@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c7ceb4c2-346e-42eb-84b4-6a15ca95370d)
+ <br />
+  (3)交互式问题<br/>
+  <img width="50%" alt="截屏2024-01-08 00 22 23" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/6ad77c42-1b10-4349-88d2-43018629f767">
+  <img width="49%" alt="截屏2024-01-05 15 53 29" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/25905b95-861c-48be-9476-17392f8c8e42">
+<br /> 
+  (4)数据分析<br/>
+  <img width="50%" alt="截屏2024-01-08 00 29 17" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/149b9950-5793-4eaa-aac0-4b406ebc8063">
+  <img width="49%" alt="截屏2024-01-05 15 55 36" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/b260cff9-0060-4a30-85cd-a960d7621ced">
+<br/>
+  <! --- code comment---> <font color="#0000dd">文心一言在图生文中单图结果不错生成了图像中的人物名称，但是在多图中出现自己编造的内容，结果和图片关系不大；在交互式问题中结果有些欠缺，均出现了自己编造的内容，且无法识别多个图片的输入；在数据分析图表中结果有些欠缺，具体数值均是错误的，但在趋势分析中是部分内容正确，部分内容编造，在照片数据提取中，无法提取有效结果</font><br/><br/> 
+ <font style="font-weight:bold;">阿里通义千问</font> <br />
+  (1)文本到图像<br/>
+  <img width="50%" alt="截屏2024-01-05 16 22 26" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/7a108c21-3c40-4adb-9516-b8b19ae5bacd">
+  <img width="49%" alt="截屏2024-01-05 16 24 09" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/512f591a-474b-440d-92ca-82de138b06e6">
+<br />
+  (2)图像到文本<br/>
+  <img width="803" alt="截屏2024-01-05 16 25 42" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c0094678-c45f-41f1-9a7e-8d93a3c68ca8">
+  ![CleanShot 2024-01-08 at 08 32 50@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2c07d9de-4789-4e69-b5ff-0185ca803d7f)
+ <br/>
+  (3)交互式问题<br/>
+  <img width="50%" alt="截屏2024-01-08 00 22 23" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/b4ab86a2-047a-4a58-9bc5-79b43fc7550d">
+  <img width="49%" alt="截屏2024-01-05 21 50 35" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9de58769-9c76-4845-92ec-1be93b65e3eb">
+<br/>
+  (4)数据分析<br/>
+  ![CleanShot 2024-01-08 at 08 25 24@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9f5983be-cd0b-49c3-bd5a-b82bf9753b35)
+  <img width="806" alt="截屏2024-01-05 22 02 17" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/bdf7c7fa-e176-4f3c-b8db-403ca185a0aa">
+<br/>
+  <! --- code comment---> <font color="#0000dd">通义千问在图生文中单图结果生成结果较详细但是有一些细节的识别不准确，在多图生成中对于图像内容的理解识别比较到位；在交互式问题中结果不佳，几乎无法实现交互；在数据分析中表现优异，生成结果均正确</font><br/><br/>
+ <font style="font-weight:bold;">腾讯混元</font><br/>
+  (1)文本到图像<br/>
+  <img width="50%" alt="截屏2024-01-05 23 26 49" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2a164637-81f4-44ef-ba90-00e5b0cff876">
+  <img width="49%" alt="截屏2024-01-05 23 41 40" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/455be2f1-77cb-468a-86d0-c82045e75bb7">
+ <br/> 
+  <! --- code comment--->腾讯混元暂无图生文功能，多模态只支持文生图<br/> <br/>  
+  <font style="font-weight:bold;">讯飞星火</font> <br/> 
+  (1)文本到图像<br/>
+  <img width="50%" alt="截屏2024-01-05 23 34 44" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2f1b63fe-409c-4cbf-b05b-0aa6d93b7398">
+  <img width="49%" alt="截屏2024-01-05 23 41 40" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/e839cdae-01ab-4f1d-8100-cc6e1a1c14aa">
+ <br/>
+  (2)图像到文本<br/>
+  <img width="50%" alt="截屏2024-01-05 23 49 53" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/efc340c9-3cf2-4573-bdf4-1cb5f8c7beac">
+  <img width="49%" alt="截屏2024-01-06 00 01 07" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/d009abd7-a4ad-4c07-b698-58f26c57d03e">
+<br/>
+  (3)交互式问题<br/>
+  <img width="50%" alt="截屏2024-01-06 00 02 52" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/5eae5ae9-eb35-419b-88cc-8735471e3dbc">
+  <img width="49%" alt="截屏2024-01-06 08 48 08" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/286780b9-4aff-43e8-8820-e251923b35fb">
+<br />
+  (4)数据分析<br/>
+  <img width="50%" alt="截屏2024-01-06 09 00 26" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/739fa539-37c0-4b22-9906-741b4735bcdd">
+  <img width="49%" alt="截屏2024-01-06 09 03 07" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/04b76a6e-dd70-46f4-a339-17bd2fdcbd30">
+<br/>
+  <! --- code comment---> <font color="#0000dd">讯飞星火在图生文单图中生成了简单准确的结果，在多图中出现了与图片几乎无关的故事；在交互式问题中单图和图片内容有交互性，但在多图中无法识别出输入的多个图片；在数据分析中两个测试结果表现均不佳，图表数据结果几乎都不正确，照片数据虽然提取出了购买物品，但未准确识别出其价格</font><br/> <br/>
+  <font style="font-weight:bold;">抖音云雀</font> <br/>
+  (1)文本到图像<br/>
+  <img src="img/截屏2024-01-06 09.06.58.png" width="1800" style="zoom:25%;" />
+  <img src="img/截屏2024-01-06 09.08.20.png" style="zoom:25%;" /> <br/> 
+  <! --- code comment---> <font color="#0000dd">抖音云雀暂无图生文功能，多模态只支持文生图</font> <br/> <br/>
+  <font style="font-weight:bold;">智谱清言</font> <br/> 
+  (1)文本到图像<br/>
+  <img width="50%" alt="截屏2024-01-06 09 12 34" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/1b65dd51-a59e-4c8a-bd07-bd1ddb0dea7e">
+  <img width="49%" alt="截屏2024-01-06 09 13 46" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/aad71dc6-a07d-4886-aaff-9c0302108047">
+<br/> 
+  (2)图像到文本<br/>
+  <img width="50%" alt="截屏2024-01-06 09 14 54" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/23edc827-1e37-4033-8bd6-c25f2a26e54d">
+  <img width="49%" alt="截屏2024-01-06 09 18 22" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/d162b63d-2589-437d-9b47-77103dac9ba2">
+<br/>
+  (3)交互式问题<br/>
+  <img width="810" alt="截屏2024-01-06 09 19 53" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/e9b8c1d1-4d26-4158-a940-47685322556e">
+  <img width="993" alt="截屏2024-01-06 08 48 08" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f90510b1-78ad-4ab4-8a88-a912f97ab12f">
+<br/>
+  (4)数据分析<br/>
+  <img width="50%" alt="截屏2024-01-06 09 29 24" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/0b7c32cf-99b0-4ba4-bae3-1f732da95356">
+  <img width="49%" alt="截屏2024-01-06 09 30 35" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/7a3a458d-4183-4511-9ed7-fc776131d363">
+<br/>
+  <! --- code comment---><font color="#0000dd">智谱清言在图生文中结果优秀，皆给出了和图片内容相一致的结果；在交互式问题中生成结果显示无法具有满意的交互性；在数据分析中，对于图表和图片数据皆无法正确识别</font><br/><br/>
+  <font style="font-weight:bold;">百川智能</font> <br/> 
+  <img width="50%" alt="截屏2024-01-06 09 32 56" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9a706610-fd90-4344-ad43-d1d214f07d90">
+  <img width="49%" alt="截屏2024-01-06 09 33 15" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/57aaff29-0902-4f94-ac04-d8ffc9473bd4">
+ <br/> 
+  <! --- code comment---><font color="#0000dd">百川智能暂无图生文功能，多模态只支持文生图</font> <br/><br/> 
+  <font style="font-weight:bold;">MINIMAX</font> <br/> 
+  <img width="50%" alt="截屏2024-01-06 09 40 40" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/38e61c67-4284-42d7-925d-4a0f7389b947">
+  <img width="49%" alt="截屏2024-01-06 09 41 11" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/21db8166-1221-47cc-bce9-8262e1e1b881">
+<br/>
+  <! --- code comment---><font color="#0000dd">MINIMAX无任何多模态功能</font> 
   </p></details><br/>
 
   
