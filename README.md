@@ -1,4 +1,4 @@
-<img width="50%" alt="liu" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/69b5e57c-13f3-4016-8f88-d311a7c7ab1b">
+
 
 # 国内大语言模型详细对比评测
 
