@@ -75,15 +75,40 @@ GPT3.5（用于对比的国外大语言模型）
 
 <table><tr><td bgcolor=Gainsboro><font color = "#b0000" size=4>评测结果：阿里通义千文 > 抖音云雀 > 腾讯混元 = 百川智能 = MINIMAX > 讯飞星火 > 智谱清言 > 百度文心一言3.5<br/></font></td></tr></table>
 
-<details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> <font style="font-weight:bold;">百度文心一言3.5</font> <br /><img src="img/截屏2023-12-25 20.25.35.png" style="zoom:25%;" /><img src="img/截屏2023-12-25 20.28.37.png" style="zoom:25%;" /> <br /> <! --- code comment--->  <font color="#0000dd">文心一言的第一个推理是很混乱的，第二个推理是结果完全错误 </font> <br/><br/> 
-  <font style="font-weight:bold;">阿里通义千问</font> <br /><img src="img/image-20231225204915205.png" style="zoom:25%;" /> <img src="img/截屏2023-12-27 11.30.55.png" style="zoom:25%;" /> <br/><! --- code comment---> <font color="#0000dd">通义千问第一个推理中出现部分逻辑混乱，但整体逻辑无问题，第二个推理中思维逻辑很完整</font><br/> <br/>
-  <font style="font-weight:bold;">腾讯混元</font><br/><img src="img/截屏2023-12-25 22.30.31.png" style="zoom:25%;" /><img src="img/截屏2023-12-25 22.32.54.png" style="zoom:25%;" /> <br/> <! --- code comment---> <font color="#0000dd">腾讯混元在第一个推理中逻辑思维很正确，在第二个推理中是逻辑思维错误(国内大语言模型均出现同样逻辑问题)</font><br/> <br/>	   
-  <font style="font-weight:bold;">讯飞星火</font> <br/> <img src="img/截屏2023-12-25 22.42.04.png" width="1800" style="zoom:25%;" /><img src="img/截屏2023-12-25 22.32.54.png" style="zoom:25%;" /> <br/> <! --- code comment--->  <font color="#0000dd">讯飞星火在第一个推理中思维逻辑正确，在第二个推理中出现了同腾讯混元一样的问题</font> <br/> <br/>
-  <font style="font-weight:bold;">抖音云雀</font> <br/><img src="img/截屏2023-12-25 22.42.04.png" width="1800" style="zoom:25%;" /><img src="img/截屏2023-12-25 22.43.36.png" style="zoom:25%;" /> <br/> <! --- code comment---> <font color="#0000dd"> 讯飞星火在第一个推理中思维逻辑正确，在第二个推理中出现了同腾讯混元一样的问题</font> <br/> <br/>
-  <font style="font-weight:bold;">抖音云雀</font> <br/> <img src="img/image-20231225225412312.png" style="zoom:25%;" /> <img src="img/截屏2023-12-25 22.57.15.png" style="zoom:25%;" /> <br/> <! --- code comment--->  <font color="#0000dd">抖音云雀在第一个推理中思维逻辑正确，但在第二个推理中判断出缺少条件，没有出现错误推理 </font><br/> <br/>
-  <font style="font-weight:bold;">智谱清言</font> <br/> <img src="img/截屏2023-12-25 23.04.11.png" style="zoom:25%;" /><img src="img/截屏2023-12-25 23.05.13.png" style="zoom:25%;" /> <br/> <! --- code comment---> <font color="#0000dd">智谱清言在第一个推理中出现部分逻辑混乱，在第二个推理中和腾讯混元出现相同逻辑错误</font> <br/> <br/>
-  <font style="font-weight:bold;">百川智能</font> <br/> <img src="img/截屏2023-12-25 23.11.17.png" style="zoom:25%;" /> <img src="img/截屏2023-12-25 23.46.40.png" style="zoom:25%;" /> <br/> <! --- code comment---> <font color="#0000dd">百川智能在第一个推理中思维逻辑完全正确，但在第二个推理中出现思维逻辑完全错误</font> <br/><br/> 
-  <font style="font-weight:bold;">MINIMAX</font> <br/> <img src="img/截屏2023-12-25 23.55.05.png" style="zoom:25%;" /><img src="img/image-20240102214234706.png" style="zoom:25%;" /> <br/><! --- code comment---> <font color="#0000dd">MINIMAX在第一个推理中思维逻辑完全正确，但在第二个推理中思维逻辑完全错误</font> </p></details><br/>
+<details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> 
+  <font style="font-weight:bold;">百度文心一言3.5</font> <br />
+  <img width="50%" alt="百度二.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/935e01ac-ff8c-496e-a1dc-37f2f030fd4d">
+  <img width="49%" alt="百度二.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2b43282f-d3be-4b26-a789-49f8cf891418">
+<br /> <! --- code comment--->  <font color="#0000dd">文心一言的第一个推理是很混乱的，第二个推理是结果完全错误 </font> <br/><br/> 
+  <font style="font-weight:bold;">阿里通义千问</font> <br />
+  <img width="50%" alt="通义二.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/11358a8e-4864-4bb7-a14b-590221cd52eb">
+  <img width="49%" alt="通义二.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/cfb6f0a0-58f7-4fb4-881e-0160f42a5f2c">
+<br/><! --- code comment---> <font color="#0000dd">通义千问第一个推理中出现部分逻辑混乱，但整体逻辑无问题，第二个推理中思维逻辑很完整</font><br/> <br/>
+  <font style="font-weight:bold;">腾讯混元</font><br/>
+  <img width="854" alt="截屏2023-12-25 22 32 54" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/232d2c4a-0f1d-4d72-99eb-426fcdb97c1c">
+  <img width="850" alt="截屏2023-12-25 22 30 31" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/4f7477a3-8da5-46fc-b86f-a512a91ed9d5">
+<br/> <! --- code comment---> <font color="#0000dd">腾讯混元在第一个推理中逻辑思维很正确，在第二个推理中是逻辑思维错误(国内大语言模型均出现同样逻辑问题)</font><br/> <br/>	   
+  <font style="font-weight:bold;">讯飞星火</font> <br/> 
+  <img width="50%" alt="讯飞二.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f0bed620-2de1-4099-895a-0e1bc019a48d">
+  <img width="49%" alt="讯飞二.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/3d2088d1-0e95-4cb1-ab70-fb17899e08f3">
+<br/> <! --- code comment--->  <font color="#0000dd">讯飞星火在第一个推理中思维逻辑正确，在第二个推理中出现了同腾讯混元一样的问题</font> <br/> <br/>
+  <font style="font-weight:bold;">抖音云雀</font> <br/>
+  <img width="50%" alt="抖音二.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/605096bf-8d22-4a62-9290-fee872306b89">
+  <img width="49%" alt="抖音二.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/dcd606d0-2e89-43e2-82d2-0fdab4468ebc">
+<br/> <! --- code comment---> <font color="#0000dd"> 讯飞星火在第一个推理中思维逻辑正确，在第二个推理中出现了同腾讯混元一样的问题</font> <br/> <br/>
+  <font style="font-weight:bold;">智谱清言</font> <br/> 
+  <img width="50%" alt="智谱二.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/114fc5bd-04ff-4ad8-8351-c20566aff2ad">
+  <img width="49%" alt="智谱二.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/e28408cb-6dba-439c-b335-cb68083d7e8e">
+<br/> <! --- code comment---> <font color="#0000dd">智谱清言在第一个推理中出现部分逻辑混乱，在第二个推理中和腾讯混元出现相同逻辑错误</font> <br/> <br/>
+  <font style="font-weight:bold;">百川智能</font> <br/> 
+  <img width="50%" alt="百川二.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/b63a035a-4b33-45c9-8a30-01312054d824">
+  <img width="49%" alt="百川二.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/96bbf96e-6a3f-4573-815c-a12203ea76fd"> 
+<br/> <! --- code comment---> <font color="#0000dd">百川智能在第一个推理中思维逻辑完全正确，但在第二个推理中出现思维逻辑完全错误</font> <br/><br/> 
+  <font style="font-weight:bold;">MINIMAX</font> <br/> 
+  <img width="50%" alt="MINIMAX二.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/98373ca0-4a92-4028-b65e-0da4e6f7cdf0">
+  <img width="49%" alt="MINIMAX二.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/8d34e5b7-7ee2-4906-bab2-6dfda2921acd"> 
+<br/><! --- code comment---> <font color="#0000dd">MINIMAX在第一个推理中思维逻辑完全正确，但在第二个推理中思维逻辑完全错误</font> 
+</p></details><br/>
 
 ### 三. 创造性
 
@@ -92,14 +117,39 @@ GPT3.5（用于对比的国外大语言模型）
 <table><tr><td bgcolor=Gainsboro><font color = "#b0000" size=4>评测结果：百度文心 > 腾讯混元 = MINIMAX > 百川智能 = 智谱清言 > 讯飞星火 = 抖音云雀 > 阿里通义千问<br/></font>对于国产大模型生成创新性结果几乎很类似，用的人物、场景、编程等元素有很多的重合度，所以其原创创新性不太够</td></tr></table>
 
 <details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> 
-  <font style="font-weight:bold;">百度文心一言3.5</font> <br/><img src="img/image-20240102202356358.png" style="zoom:25%;" /> <img src="img/image-20240102203412577.png" style="zoom:25%;" /> <br/> <! --- code comment--->  <font color="#0000dd">文心一言在两个问题场创造性中要素较为全面综合（5+5=10）</font>  <br/><br/> 
-  <font style="font-weight:bold;">阿里通义千问</font> <br /><img src="img/截屏2024-01-02 21.18.08.png" style="zoom:25%;" /><img src="img/image-20240102212226641.png" style="zoom:25%;"><br/> <! --- code comment--->  <font color="#0000dd">阿里通义千文创造性中过于简单片面单一，有种拼凑的感觉（3+3=6）</font>  <br/><br/>
-  <font style="font-weight:bold;">腾讯混元</font><br/><img src="img/截屏2024-01-02 21.40.56.png" style="zoom:25%;" /><img src="img/image-20240102215058480.png" style="zoom:25%;" /> <br/> <! --- code comment---> <font color="#0000dd">腾讯混元和百度文心在创新性上的效果很类似，第一个故事元素全面，第二个编程题目一样（5+4=9）</font><br/> <br/>     
-  <font style="font-weight:bold;">讯飞星火</font> <br/> <img src="img/image-20240102235208699.png" width="1800" style="zoom:25%;" /><img src="img/image-20240102235302570.png" style="zoom:20%;" /> <br/> <! --- code comment--->  <font color="#0000dd">讯飞星火生成故事元素很全面，但是编程题目过于简单（5+2=7）</font> <br/><br/>
-  <font style="font-weight:bold;">抖音云雀</font> <br/> <img src="img/image-20240103112018574.png" style="zoom:25%;" /> <img src="img/image-20240103112054009.png" style="zoom:25%;" /> <br/> <! --- code comment--->  <font color="#0000dd">抖音云雀生成故事的创造性和其他模型相差不大，但在在编程题目中出的题目过于简单，和讯飞星火生成的题目一样（5+2=7）</font> <br/><br/>
-  <font style="font-weight:bold;">智谱清言</font> <br/> <img src="img/image-20240103110032615.png" style="zoom:25%;" /><img src="img/image-20240103110113001.png" style="zoom:25%;" /> <br/> <! --- code comment---> <font color="#0000dd">智谱清言生成故事的创造性和其他模型相差不大，但在编程题目中和阿里通义千问生成了一样的题目（5+3=8）</font> <br/> <br/>
-  <font style="font-weight:bold;">百川智能</font> <br/> <img src="img/截屏2024-01-03 11.06.18.png" style="zoom:25%;" /> <img src="img/image-20240103110649136.png" style="zoom:25%;" /> <br/> <! --- code comment---> <font color="#0000dd">百川智能生成故事的创造性和其他模型相差不大，但在编程题目中也是拼凑题目的感觉（5+3=8）</font> <br/><br/> 
-  <font style="font-weight:bold;">MINIMAX</font> <br/> <img src="img/image-20240103111010866.png" style="zoom:25%;" /><img src="img/image-20240103111217976.png" style="zoom:25%;" /> <br/><! --- code comment---> <font color="#0000dd">MINIMAX生成的故事与讯飞星火很类似甚至出现相同的人名，生成的编程题目可以视为一种独立的编程题目（4+5=9）</font> </p></details>
+  <font style="font-weight:bold;">百度文心一言3.5</font> <br/>
+  <img width="49%" alt="文心三.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c2162358-0b0d-4661-afc5-ca2d3b428f05">
+  <img width="50%" alt="文心三.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2681dd44-35a7-4b61-bace-db0deb37a8c4">
+<br/> <! --- code comment--->  <font color="#0000dd">文心一言在两个问题场创造性中要素较为全面综合（5+5=10）</font>  <br/><br/> 
+  <font style="font-weight:bold;">阿里通义千问</font> <br />
+  <img width="49%" alt="通义三.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/371198ea-941a-47b4-85ca-6d2d6893ac16">
+  <img width="50%" alt="通义三.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f4785cea-83d3-46b6-9ed0-637a7a12ee3c">
+<br/> <! --- code comment--->  <font color="#0000dd">阿里通义千文创造性中过于简单片面单一，有种拼凑的感觉（3+3=6）</font>  <br/><br/>
+  <font style="font-weight:bold;">腾讯混元</font><br/>
+  <img width="49%" alt="腾讯三.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/1aae305e-e45a-49bc-96c4-a4db7e1eda8f">
+  <img width="50%" alt="腾讯三.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/baf221c7-4b87-439a-a947-0c79f7edbd85">
+<br/> <! --- code comment---> <font color="#0000dd">腾讯混元和百度文心在创新性上的效果很类似，第一个故事元素全面，第二个编程题目一样（5+4=9）</font><br/> <br/>     
+  <font style="font-weight:bold;">讯飞星火</font> <br/> 
+  <img width="49%" alt="讯飞三.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/3222e7ea-3ab9-4a98-b0db-d1fd7f90008c">
+  <img width="50%" alt="讯飞三.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9f71df89-86d9-4a20-a9fb-f9b9b79afe77">
+<br/> <! --- code comment--->  <font color="#0000dd">讯飞星火生成故事元素很全面，但是编程题目过于简单（5+2=7）</font> <br/><br/>
+  <font style="font-weight:bold;">抖音云雀</font> <br/> 
+  <img width="49%" alt="抖音三.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/43ce21c7-325a-4b6b-b441-258437634a1e">
+  <img width="50%" alt="抖音三.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/d45e6bc0-9bc7-46a6-b136-aa2dd7bc2c41">
+<br/> <! --- code comment--->  <font color="#0000dd">抖音云雀生成故事的创造性和其他模型相差不大，但在在编程题目中出的题目过于简单，和讯飞星火生成的题目一样（5+2=7）</font> <br/><br/>
+  <font style="font-weight:bold;">智谱清言</font> <br/> 
+  <img width="49%" alt="智谱三.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/30edc676-c821-4cb1-a9c9-95d137c69e68">
+  <img width="50%" alt="智谱三.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/487dd104-0b42-4c1f-a512-5777aef3294b">
+<br/> <! --- code comment---> <font color="#0000dd">智谱清言生成故事的创造性和其他模型相差不大，但在编程题目中和阿里通义千问生成了一样的题目（5+3=8）</font> <br/> <br/>
+  <font style="font-weight:bold;">百川智能</font> <br/> 
+  <img width="49%" alt="百川三.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/cfaf6924-0546-4580-8792-03573cb0fc85">
+  <img width="50%" alt="百川三.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/59e15450-eb80-4ef0-aaf1-fa46d68f31b1">
+<br/> <! --- code comment---> <font color="#0000dd">百川智能生成故事的创造性和其他模型相差不大，但在编程题目中也是拼凑题目的感觉（5+3=8）</font> <br/><br/> 
+  <font style="font-weight:bold;">MINIMAX</font> <br/> 
+  <img width="49%" alt="MINIMAX三.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c3296108-bc04-4aaa-9fc2-9c3535a5933e">
+  <img width="50%" alt="MINIMAX三.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/62d4723b-5ab1-4ae7-9bad-b771c80ef487">
+<br/><! --- code comment---> <font color="#0000dd">MINIMAX生成的故事与讯飞星火很类似甚至出现相同的人名，生成的编程题目可以视为一种独立的编程题目（4+5=9）</font> 
+</p></details>
 
 
 
@@ -110,14 +160,38 @@ GPT3.5（用于对比的国外大语言模型）
 <table><tr><td bgcolor=Gainsboro>测试问题："解释这句话的情感色彩：'我简直不敢相信你真的做到了！'"、"这封投诉信的主要诉求是什么？"</td></tr></table>
 
 <details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> 
-  <font style="font-weight:bold;">百度文心一言3.5</font> <br /><img src="img/截屏2024-01-03 11.46.38.png" style="zoom:25%;" /><img src="img/截屏2024-01-03 11.47.21.png" style="zoom:25%;" /> <br /> <! --- code comment---> <font color="#0000dd">百度文心情感分析合理，但在意图分析中缺少投诉信具体内容的情况下，却仍说出了诉求，属于幻像（5+1=6）</font>  <br/><br/> 
-  <font style="font-weight:bold;">阿里通义千问</font> <br /><img src="img/截屏2024-01-03 19.23.58.png" style="zoom:25%;" /> <img src="img/截屏2024-01-03 19.25.11.png" style="zoom:25%;" /> <br/><! --- code comment---> <font color="#0000dd">通义千问情感分析合理，而且意图分析中给出了无投诉信具体内容故而无法分析，还给出了一般投诉信的诉求（5+5=10）</font><br /> <br/>
-  <font style="font-weight:bold;">腾讯混元</font><br/><img src="img/截屏2024-01-03 19.30.20.png" style="zoom:25%;" /><img src="img/截屏2024-01-03 19.30.51.png" style="zoom:25%;" /> <br/> <! --- code comment---><font color="#0000dd">腾讯混元情感分析合理，而且意图分析给出了无投诉信具体内容故而无法分析，但未给出一般投诉信的诉求（5+4=9）</font><br/> <br/>     
-  <font style="font-weight:bold;">讯飞星火</font> <br/> <img src="img/截屏2024-01-03 19.46.49.png" width="1800" style="zoom:25%;" /><img src="img/截屏2024-01-03 19.47.15.png" style="zoom:25%;" /> <br/> <! --- code comment---><font color="#0000dd"> 讯飞星火情感分析合理，而且意图分析给出了无投诉信具体内容故而无法分析，但未给出一般投诉信的诉求（（5+4=9）</font> <br/> <br/>
-  <font style="font-weight:bold;">抖音云雀</font> <br/> <img src="img/截屏2024-01-03 19.49.28.png" style="zoom:25%;" /> <img src="img/截屏2024-01-03 19.50.18.png" style="zoom:25%;" /> <br/> <! --- code comment---> <font color="#0000dd">抖音云雀情感分析合理，但在意图分析中出现了与题目不相关的内容（5+0=5） </font><br/> <br/>
-  <font style="font-weight:bold;">智谱清言</font> <br/> <img src="img/截屏2024-01-03 19.53.24.png" style="zoom:25%;" /><img src="img/截屏2024-01-03 19.54.14.png" style="zoom:25%;" /> <br/> <! --- code comment---><font color="#0000dd">智谱清言情感分析合理，而且意图分析给出了无投诉信具体内容故而无法分析，但未给出一般投诉信的诉求（5+4=9） </font><br/> <br/>
-  <font style="font-weight:bold;">百川智能</font> <br/> <img src="img/截屏2024-01-03 19.55.31.png" style="zoom:25%;" /> <img src="img/截屏2024-01-03 19.55.52.png" style="zoom:25%;" /> <br/> <! --- code comment---><font color="#0000dd">百川智能情感分析合理，而且意图分析给出了无投诉信具体内容故而无法分析，但未给出一般投诉信的诉求（5+4=9）</font> <br/><br/> 
-  <font style="font-weight:bold;">MINIMAX</font> <br/> <img src="img/截屏2024-01-03 19.57.15.png" style="zoom:25%;" /><img src="img/截屏2024-01-03 19.59.16.png" style="zoom:25%;" /> <br/><! --- code comment---><font color="#0000dd">MINIMAX情感分析合理，但在意图分析中缺少投诉信具体内容的情况下，却仍说出了诉求，属于幻像（5+1=6）</font> 
+  <font style="font-weight:bold;">百度文心一言3.5</font> <br />
+  <img src="img/截屏2024-01-03 11.46.38.png" style="zoom:25%;" />
+  <img src="img/截屏2024-01-03 11.47.21.png" style="zoom:25%;" /> 
+<br /> <! --- code comment---> <font color="#0000dd">百度文心情感分析合理，但在意图分析中缺少投诉信具体内容的情况下，却仍说出了诉求，属于幻像（5+1=6）</font>  <br/><br/> 
+  <font style="font-weight:bold;">阿里通义千问</font> <br />
+  <img src="img/截屏2024-01-03 19.23.58.png" style="zoom:25%;" /> 
+  <img src="img/截屏2024-01-03 19.25.11.png" style="zoom:25%;" /> 
+<br/><! --- code comment---> <font color="#0000dd">通义千问情感分析合理，而且意图分析中给出了无投诉信具体内容故而无法分析，还给出了一般投诉信的诉求（5+5=10）</font><br /> <br/>
+  <font style="font-weight:bold;">腾讯混元</font><br/>
+  <img src="img/截屏2024-01-03 19.30.20.png" style="zoom:25%;" />
+  <img src="img/截屏2024-01-03 19.30.51.png" style="zoom:25%;" /> 
+<br/> <! --- code comment---><font color="#0000dd">腾讯混元情感分析合理，而且意图分析给出了无投诉信具体内容故而无法分析，但未给出一般投诉信的诉求（5+4=9）</font><br/> <br/>     
+  <font style="font-weight:bold;">讯飞星火</font> <br/> 
+  <img src="img/截屏2024-01-03 19.46.49.png" width="1800" style="zoom:25%;" />
+  <img src="img/截屏2024-01-03 19.47.15.png" style="zoom:25%;" /> 
+<br/> <! --- code comment---><font color="#0000dd"> 讯飞星火情感分析合理，而且意图分析给出了无投诉信具体内容故而无法分析，但未给出一般投诉信的诉求（（5+4=9）</font> <br/> <br/>
+  <font style="font-weight:bold;">抖音云雀</font> <br/> 
+  <img src="img/截屏2024-01-03 19.49.28.png" style="zoom:25%;" /> 
+  <img src="img/截屏2024-01-03 19.50.18.png" style="zoom:25%;" /> 
+<br/> <! --- code comment---> <font color="#0000dd">抖音云雀情感分析合理，但在意图分析中出现了与题目不相关的内容（5+0=5） </font><br/> <br/>
+  <font style="font-weight:bold;">智谱清言</font> <br/> 
+  <img src="img/截屏2024-01-03 19.53.24.png" style="zoom:25%;" />
+  <img src="img/截屏2024-01-03 19.54.14.png" style="zoom:25%;" /> 
+<br/> <! --- code comment---><font color="#0000dd">智谱清言情感分析合理，而且意图分析给出了无投诉信具体内容故而无法分析，但未给出一般投诉信的诉求（5+4=9） </font><br/> <br/>
+  <font style="font-weight:bold;">百川智能</font> <br/> 
+  <img src="img/截屏2024-01-03 19.55.31.png" style="zoom:25%;" /> 
+  <img src="img/截屏2024-01-03 19.55.52.png" style="zoom:25%;" /> 
+<br/> <! --- code comment---><font color="#0000dd">百川智能情感分析合理，而且意图分析给出了无投诉信具体内容故而无法分析，但未给出一般投诉信的诉求（5+4=9）</font> <br/><br/> 
+  <font style="font-weight:bold;">MINIMAX</font> <br/> 
+  <img src="img/截屏2024-01-03 19.57.15.png" style="zoom:25%;" />
+  <img src="img/截屏2024-01-03 19.59.16.png" style="zoom:25%;" /> 
+<br/><! --- code comment---><font color="#0000dd">MINIMAX情感分析合理，但在意图分析中缺少投诉信具体内容的情况下，却仍说出了诉求，属于幻像（5+1=6）</font> 
   </p></details><br/>
 
 ### 五. 语言多样性和翻译
