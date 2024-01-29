@@ -1,4 +1,4 @@
-
+<img width="50%" alt="liu" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/69b5e57c-13f3-4016-8f88-d311a7c7ab1b">
 
 # 国内大语言模型详细对比评测
 
@@ -462,7 +462,6 @@ GPT3.5（用于对比的国外大语言模型）
 <!--在（2）图像到文本中使用的图像如下-->
 <br/>
 1. **图像描述**
-
 ![WechatIMG220](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/402d3944-47ba-4e35-b7e7-172b0da18793)
 <br/>
 2. **图像故事讲述**
