@@ -461,7 +461,7 @@ GPT3.5（用于对比的国外大语言模型）
   </td></tr></table>
 <!--在（2）图像到文本中使用的图像如下-->
 <br/>
-1. **图像描述**
+1. **图像描述**<br/>
 <img width="50%" alt="WechatIMG220" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/402d3944-47ba-4e35-b7e7-172b0da18793">
 <br/>
 2. **图像故事讲述**
