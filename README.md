@@ -1,6 +1,6 @@
 
 
-# 国内大语言模型详细对比评测
+# 国内大语言模型对比评测
 
 针对国产大模型的横空出世并不断打磨其性能，这次评测我们将覆盖国内所有开源的大语言模型（如下），也针对大家常用功能的设计了测试问题，用于评测其基础性能优劣（如下）。测试问题统一为中文，用于为国内用户使用大语言模型提供参考。
 
@@ -323,7 +323,7 @@ GPT3.5（用于对比的国外大语言模型）
 <details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> 
   <font style="font-weight:bold;">百度文心一言3.5</font> <br />
   (1)语法错误<br/>
-  ![CleanShot 2024-01-06 at 09 52 44@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/e731e216-62e3-4ef3-b2cc-789acd82733c)
+  <img width="50%" alr="wenxinRobustness1" src=“https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/e731e216-62e3-4ef3-b2cc-789acd82733c”>
   <img width="49%" alt="截屏2024-01-06 09 54 51" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/994d20cc-066f-4ef8-8374-44d465ed73c2"><br/>
   (2)故意的误导或双关语<br/>
   <img width="50%" alt="截屏2024-01-06 09 56 07" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c0087ece-00e0-4302-9fbc-1f5892f56aaa">
@@ -331,8 +331,8 @@ GPT3.5（用于对比的国外大语言模型）
 <br/> <br/>
   <font style="font-weight:bold;">阿里通义千问</font> <br />
   （1）语法错误<br/>
-  ![CleanShot 2024-01-06 at 10 09 26@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/820809b7-210c-4ac4-8fed-6c8744a06005)
-  ![CleanShot 2024-01-06 at 10 09 51@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/68b46f65-1681-40c1-904c-8867837f79dd)<br/>
+  <img width="50%" alt="aliRobustness1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/820809b7-210c-4ac4-8fed-6c8744a06005">
+  <img width="49%" alt="aliRobustness2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/68b46f65-1681-40c1-904c-8867837f79dd"><br/>
   （2）故意的误导或双关语<br/>
   <img width="50%" alt="截屏2024-01-06 10 10 42" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/4a1c30da-e2a2-450c-a12f-6eaa370fb2e1">
   <img width="49%" alt="截屏2024-01-06 10 10 48" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/66a5eed5-5bac-48fb-bcb4-6041f4894c9c">
@@ -374,17 +374,17 @@ GPT3.5（用于对比的国外大语言模型）
 <br/><br/>
   <font style="font-weight:bold;">百川智能</font> <br/> 
   （1）语法错误<br/>
-  ![CleanShot 2024-01-06 at 13 18 05@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/0f692681-486e-4cf6-9fa6-790777e109b4)
-  <img width="846" alt="截屏2024-01-06 13 17 46" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/98cb056e-8cd9-4c2c-a133-d030a1ce3e0b">
+  <img width="50%" alt="baichuanRobustness1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/0f692681-486e-4cf6-9fa6-790777e109b4">
+  <img width="49%" alt="截屏2024-01-06 13 17 46" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/98cb056e-8cd9-4c2c-a133-d030a1ce3e0b">
  <br/> 
   （2）故意的误导或双关语 <br/>
-  ![CleanShot 2024-01-06 at 13 16 14@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/839efab0-5aeb-4a9d-b448-f4ebd8ac245d)
-  ![CleanShot 2024-01-06 at 13 17 21@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/eae835d5-cbf2-40d3-b508-00b745b47af6)
+  <img width="50%" alt="baichuanRobustness3" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/839efab0-5aeb-4a9d-b448-f4ebd8ac245d">
+  <img width="49%" alt="baichuanRobustness4" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/eae835d5-cbf2-40d3-b508-00b745b47af6">
 <br/><br/> 
   <font style="font-weight:bold;">MINIMAX</font> <br/>
   （1）语法错误<br/> 
-  ![CleanShot 2024-01-06 at 13 24 56@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/b5376a21-361b-4efa-a3b3-d749313b330a)
-  ![CleanShot 2024-01-06 at 13 20 57@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/397d020c-2768-4c17-9e86-1b6d39c38973)
+  <img width="50%" alt="MINIMAXRobustness1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/b5376a21-361b-4efa-a3b3-d749313b330a">
+  <img width="49%" alt="MINIMAXRobustness2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/397d020c-2768-4c17-9e86-1b6d39c38973">
   <br/>
   （2）故意的误导或双关语 <br/>
   <img width="50%" alt="截屏2024-01-06 13 25 30" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/32df1fc7-c005-4d20-8701-35f945cc6adb">
@@ -462,25 +462,25 @@ GPT3.5（用于对比的国外大语言模型）
 <!--在（2）图像到文本中使用的图像如下-->
 <br/>
 1. **图像描述**
-![WechatIMG220](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/402d3944-47ba-4e35-b7e7-172b0da18793)
+<img width="50%" alt="WechatIMG220" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/402d3944-47ba-4e35-b7e7-172b0da18793">
 <br/>
 2. **图像故事讲述**
 <br/>
-![WechatIMG236](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c09e6c51-cc6f-4b45-b02d-fad6d467cd5a)
-![WechatIMG237](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9357e695-2079-440c-acb3-4e4b86ff3f6d)
-![WechatIMG238](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/89912095-51e6-4023-86a7-7a09d3c03153)
+<img width="50%" alt="WechatIMG236" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c09e6c51-cc6f-4b45-b02d-fad6d467cd5a"> 
+<img width="50%" alt="WechatIMG237" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9357e695-2079-440c-acb3-4e4b86ff3f6d">
+<img width="50%" alt="WechatIMG238" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/89912095-51e6-4023-86a7-7a09d3c03153">
 <br/>
 <!--在（3）交互式问题中使用的图像如下-->
 <br/>
 1.**解决问题**
 <br/>
-![厨房](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/69b5e57c-13f3-4016-8f88-d311a7c7ab1b)
+<img width="50%" alt="chufang" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/69b5e57c-13f3-4016-8f88-d311a7c7ab1b">
 <br/>
 2.**教育活动**:
 <br/>
-![动物图片一](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2f2fbb22-0e74-4b37-9bfe-5f9efbf3486a)
-![动物图片二](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/070f5860-24c4-4b29-95b3-2666d9204a86)
-![动物图片三](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/479ff950-825b-407d-a7ab-4ac346c2eb1f)
+<img width="30%" alt="animal1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2f2fbb22-0e74-4b37-9bfe-5f9efbf3486a">
+<img width="30%" alt="animal2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/070f5860-24c4-4b29-95b3-2666d9204a86">
+<img width="30%" alt="animal3" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/479ff950-825b-407d-a7ab-4ac346c2eb1f">
 <br/>
 <!--在（4） 数据分析中使用的图像如下-->
 <br/>
@@ -490,7 +490,7 @@ GPT3.5（用于对比的国外大语言模型）
 <br/>
 2.**照片数据提取**
 <br/>
-![商品收据](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/d1db3095-e9c5-4ad1-b275-1738b9eeedec)
+<img width="50%" alt="shoppingdata" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/d1db3095-e9c5-4ad1-b275-1738b9eeedec">
 <br/>
 <details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> 
   <font style="font-weight:bold;">百度文心一言3.5</font> <br />
@@ -499,8 +499,9 @@ GPT3.5（用于对比的国外大语言模型）
   <img width="49%" alt="截屏2024-01-05 11 24 26" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f0376e71-b960-40f4-87bb-cdf5e542e81e">
  <br /> 
   (2)图像到文本<br/>
-  <img width="840" alt="截屏2024-01-08 08 36 13" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/dcd30df4-edcd-4328-8f33-ca2ab4752f44">
-  ![CleanShot 2024-01-08 at 08 01 49@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c7ceb4c2-346e-42eb-84b4-6a15ca95370d)
+  <img width="50%" alt="wenxinI2T.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/dcd30df4-edcd-4328-8f33-ca2ab4752f44">
+  <img width="49%" alt="wenxinI2T.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c7ceb4c2-346e-42eb-84b4-6a15ca95370d">
+
  <br />
   (3)交互式问题<br/>
   <img width="50%" alt="截屏2024-01-08 00 22 23" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/6ad77c42-1b10-4349-88d2-43018629f767">
@@ -517,16 +518,16 @@ GPT3.5（用于对比的国外大语言模型）
   <img width="49%" alt="截屏2024-01-05 16 24 09" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/512f591a-474b-440d-92ca-82de138b06e6">
 <br />
   (2)图像到文本<br/>
-  <img width="803" alt="截屏2024-01-05 16 25 42" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c0094678-c45f-41f1-9a7e-8d93a3c68ca8">
-  ![CleanShot 2024-01-08 at 08 32 50@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2c07d9de-4789-4e69-b5ff-0185ca803d7f)
+  <img width="505" alt="aliI2T.1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/c0094678-c45f-41f1-9a7e-8d93a3c68ca8">
+  <img width="49%" alt="aliI2T.2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/2c07d9de-4789-4e69-b5ff-0185ca803d7f">
  <br/>
   (3)交互式问题<br/>
   <img width="50%" alt="截屏2024-01-08 00 22 23" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/b4ab86a2-047a-4a58-9bc5-79b43fc7550d">
   <img width="49%" alt="截屏2024-01-05 21 50 35" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9de58769-9c76-4845-92ec-1be93b65e3eb">
 <br/>
   (4)数据分析<br/>
-  ![CleanShot 2024-01-08 at 08 25 24@2x](https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9f5983be-cd0b-49c3-bd5a-b82bf9753b35)
-  <img width="806" alt="截屏2024-01-05 22 02 17" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/bdf7c7fa-e176-4f3c-b8db-403ca185a0aa">
+  <img width="50%" alt="dataanalyse1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/9f5983be-cd0b-49c3-bd5a-b82bf9753b35">
+  <img width="49%" alt="dataanalyse2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/bdf7c7fa-e176-4f3c-b8db-403ca185a0aa">
 <br/>
   <! --- code comment---> <font color="#0000dd">通义千问在图生文中单图结果生成结果较详细但是有一些细节的识别不准确，在多图生成中对于图像内容的理解识别比较到位；在交互式问题中结果不佳，几乎无法实现交互；在数据分析中表现优异，生成结果均正确</font><br/><br/>
  <font style="font-weight:bold;">腾讯混元</font><br/>
@@ -555,8 +556,9 @@ GPT3.5（用于对比的国外大语言模型）
   <! --- code comment---> <font color="#0000dd">讯飞星火在图生文单图中生成了简单准确的结果，在多图中出现了与图片几乎无关的故事；在交互式问题中单图和图片内容有交互性，但在多图中无法识别出输入的多个图片；在数据分析中两个测试结果表现均不佳，图表数据结果几乎都不正确，照片数据虽然提取出了购买物品，但未准确识别出其价格</font><br/> <br/>
   <font style="font-weight:bold;">抖音云雀</font> <br/>
   (1)文本到图像<br/>
-  <img src="img/截屏2024-01-06 09.06.58.png" width="1800" style="zoom:25%;" />
-  <img src="img/截屏2024-01-06 09.08.20.png" style="zoom:25%;" /> <br/> 
+  <img width="50%" alt="截屏2024-01-06 09 06 58" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f471f17e-84dc-4f6d-91ac-4aa8fa2c10a6">
+  <img width="49%" alt="截屏2024-01-06 09 08 20" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/1a9984e4-2be7-4bd0-98f6-89836209a223">
+ <br/> 
   <! --- code comment---> <font color="#0000dd">抖音云雀暂无图生文功能，多模态只支持文生图</font> <br/> <br/>
   <font style="font-weight:bold;">智谱清言</font> <br/> 
   (1)文本到图像<br/>
