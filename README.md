@@ -36,8 +36,8 @@ GPT3.5（用于对比的国外大语言模型）
 
 <details><summary><font size="5" style="font-weight:bold;">具体测试效果</font></summary><p> 
   <font style="font-weight:bold;">百度文心一言3.5</font> <br />
-  <img width="50%" alt="文心1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/244e1ee8-557c-4848-b2a2-da80f151aadc">
-  <img width="49%" alt="文心2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/f1939789-c92b-4bd3-859e-082355378da8" >
+  <img width="50%" alt="文心1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/6a716d1a-8d57-43e9-b8be-3a825c06952c">
+  <img width="49%" alt="文心2" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/244e1ee8-557c-4848-b2a2-da80f151aadc">
  <br/> <br/> 
   <font style="font-weight:bold;">阿里通义千问</font> <br />
   <img width="50%" alt="通义1" src="https://github.com/zhangchuangiie/llm-evaluation/assets/40593174/b346c984-b48f-44fe-bf3c-be6728354176">
